@@ -1,5 +1,7 @@
 # SaccadeSelection
-## This function is to get saccades interval and gaze interval from raw eye trace based on velocity (Check the program for more details)
+## The repository contains the SaccadeSelection function script,an example eyetrace dataset(EyeX, EyeY), and an example visualization script to illustrate how the function was applied.
+
+### This SaccadeSelection Function is to get saccades interval and gaze interval from raw eye trace based on velocity (Check the program for more details)
 
 ### **Input**: 
   
